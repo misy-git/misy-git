@@ -1,9 +1,5 @@
 <h1 align="center">✨ Misbah Fathima ✨</h1>
 
-<h3 align="center">
-AI/ML Developer • Web Developer • Data Analytics Enthusiast
-</h3>
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:091428,25:0F2027,50:203A43,75:2C5364,100:00C9FF&text=Welcome%20To%20My%20GitHub&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Developer%20•%20Web%20Developer%20•%20Data%20Analytics%20Enthusiast&descAlignY=58&descSize=18"/>
 </p>
