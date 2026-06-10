@@ -43,9 +43,8 @@ Currently Exploring:
 ✨ Combining creativity and technology to create meaningful digital experiences.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750337-4e1e3d65-8f8a-4dfb-9f8f-3f4d5b7c6f2f.gif" width="400">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
-
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-0df2-4f53-8f0c-33f5f79b0a6.gif" width="100%">
