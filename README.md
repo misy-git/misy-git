@@ -5,17 +5,14 @@ AI/ML Developer • Web Developer • Data Analytics Enthusiast
 </h3>
 
 <p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Developer;Data+Analytics+Enthusiast;Frontend+%26+Web+Developer;Building+Intelligent+Digital+Experiences;Exploring+Future+Technologies+🚀;Always+Learning+New+Things+✨" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Welcome%20To%20My%20GitHub%20Profile&fontAlign=50&fontAlignY=40&color=0:0F2027,50:203A43,100:2C5364&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
----
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=misy-git&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/misy-git?style=for-the-badge&color=blue"/>
